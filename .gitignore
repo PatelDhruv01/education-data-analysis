@@ -1,0 +1,19 @@
+# R project files
+.Rproj.user/
+.RData
+.Rhistory
+.Ruserdata
+
+# Shiny deployment
+rsconnect/
+
+# Report files
+r1.Rmd
+r1.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Submissions (large video & PDFs)
+Submisions/
